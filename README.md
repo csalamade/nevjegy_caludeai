@@ -17,9 +17,11 @@ Csináltam egy új gpg kulcsot ahól a githubos e-mail cím szerepel remélem í
 ![kép](https://github.com/csalamade/nevjegy_caludeai/assets/40370960/ee0278cf-3367-4272-b98c-e0031e9f811b)
 
 **a hiavatkozások legyenek kattintahóak**
+
 ![kép](https://github.com/csalamade/nevjegy_caludeai/assets/40370960/fb037ee9-f6b2-4388-bee6-7bddc2a14d80)
 
 **a szöveg kerüljön középre**
+
 ![kép](https://github.com/csalamade/nevjegy_caludeai/assets/40370960/17bf75ce-db9a-4dca-8fe5-a64c6a555496)
 
 **a betű méret legyen egy kicsit nagyobb**
