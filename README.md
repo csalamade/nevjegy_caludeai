@@ -24,4 +24,4 @@ Csináltam egy új gpg kulcsot ahól a githubos e-mail cím szerepel remélem í
 
 **a betű méret legyen egy kicsit nagyobb**
 
-
+![kép](https://github.com/csalamade/nevjegy_caludeai/assets/40370960/20c8a192-d583-42bf-89bf-daec27c61e7b)
