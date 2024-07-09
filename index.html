@@ -1,11 +1,50 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="hu">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
+    <title>Okos Névjegykártya</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            margin: 0;
+            background-color: #f0f0f0;
+        }
+        .card {
+            background-color: white;
+            border-radius: 10px;
+            box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+            padding: 20px;
+            width: 300px;
+            text-align: center;
+        }
+        .name {
+            font-size: 24px;
+            font-weight: bold;
+            margin-bottom: 10px;
+        }
+        .title {
+            font-size: 18px;
+            color: #666;
+            margin-bottom: 20px;
+        }
+        .contact {
+            font-size: 14px;
+            margin-bottom: 5px;
+        }
+    </style>
 </head>
 <body>
-    
+    <div class="card">
+        <div class="name">Az Ön Neve</div>
+        <div class="title">Pozíció</div>
+        <div class="contact">Email: pelda@email.com</div>
+        <div class="contact">Telefon: +36 1 234 5678</div>
+        <div class="contact">Weboldal: www.peldaweboldal.hu</div>
+    </div>
 </body>
 </html>
