@@ -29,7 +29,7 @@
             border-radius: 50%;
             margin: 0 auto 20px;
             display: block;
-            background-color: #ddd; /* Helyettesítő szín a profilképnek */
+            background-color: #ddd;
         }
         .name {
             font-size: 24px;
@@ -72,6 +72,13 @@
             width: 100%;
             max-width: 300px;
         }
+        a {
+            color: inherit;
+            text-decoration: none;
+        }
+        a:hover {
+            text-decoration: underline;
+        }
     </style>
 </head>
 <body>
@@ -83,15 +90,15 @@
             <div class="contact-info">
                 <div class="contact-item">
                     <span class="icon">📧</span>
-                    <span>pelda@email.com</span>
+                    <a href="mailto:pelda@email.com">pelda@email.com</a>
                 </div>
                 <div class="contact-item">
                     <span class="icon">📞</span>
-                    <span>+36 1 234 5678</span>
+                    <a href="tel:+3612345678">+36 1 234 5678</a>
                 </div>
                 <div class="contact-item">
                     <span class="icon">🌐</span>
-                    <span>www.peldaweboldal.hu</span>
+                    <a href="http://www.peldaweboldal.hu" target="_blank">www.peldaweboldal.hu</a>
                 </div>
             </div>
         </div>
